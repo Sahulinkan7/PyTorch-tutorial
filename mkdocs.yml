@@ -3,7 +3,7 @@ site_name: PyTorch Tutorial
 # defeine TOC or order of website-
 nav:
   - Home: index.md
-  - pag2: page2.md
+  - Torch Introduction: torch_introduction.md
 
 site_author: Linkan Kumar Sahu
 site_description: >-
