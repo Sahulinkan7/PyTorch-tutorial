@@ -7,7 +7,7 @@ import torch
 print(torch.__version__)
 ```
 
-## To check torch is available with cuda setup or not. returns True is if its using GPU else False.
+## Check torch using GPU or not ?
 
 ```python
 torch.cuda.is_available()
