@@ -1,6 +1,7 @@
 # PyTorch-tutorial
 Exploring PyTorch library
 
+Pytorch Tutorial live documentation : https://sahulinkan7.github.io/PyTorch-tutorial/
 
 To add mkdocs materials execute below command which creates docs folder and mkdocs.yml file.
 
