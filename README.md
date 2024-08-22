@@ -18,3 +18,7 @@ mkdocs serve
 ```
 
 github action workflow file ci.yaml will be used for deploying mkdocs documentation web page as github page.
+
+```python
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+```
